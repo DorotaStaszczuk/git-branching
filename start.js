@@ -1,4 +1,4 @@
-console.log('hello');
-console.log('world');
-console.log('!!!');
-console.log("Hello Dorota!!!!");
+console.log("hello");
+console.log("world");
+console.log("!!!");
+console.log("Siemka Dorota!!!!");
